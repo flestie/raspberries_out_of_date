@@ -10,4 +10,5 @@
 - Debugging
 - OOP
 - basic data types: arrays, lists (in java ArrayList and LinkedList), HashMap
+- HashMap is very fundamental concept, in Python it's called Dictionary
 - about tests and refactoring: tests not only useful to check that changes are correct, but also add some additional guarantee that everything works as expected, especially when something is changed, for example, after some refactoring

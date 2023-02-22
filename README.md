@@ -8,3 +8,5 @@
 - junit 5
 - TDD
 - Debugging
+- OOP
+- basic data types: arrays, lists (in java ArrayList and LinkedList), HashMap

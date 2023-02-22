@@ -15,6 +15,10 @@ public class Cam {
     return id;
   }
 
+  public int getDays() {
+    return days;
+  }
+
   private static String getId(String name) {
     return name.split("_")[1];
   }

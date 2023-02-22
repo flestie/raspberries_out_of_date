@@ -6,3 +6,5 @@
 - Maven (https://maven.apache.org/)
 - Java 17
 - junit 5
+- TDD
+- Debugging
